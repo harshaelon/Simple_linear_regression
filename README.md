@@ -8,6 +8,10 @@ Libraries Used :
 4. seaborn (Visualization)
 
 # Data Set Considered : Height-Weight.CSV
+1.dataset author : Mustafa Ali
+
+2. Dataset Link : https://www.kaggle.com/datasets/mustafaali96/weight-height
+
 
 # Metrics Used or Looked upon :
 1.R**2
